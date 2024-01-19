@@ -1,0 +1,1 @@
+Retailer Marketplace is a platform to connect the local retailers with the customers to Bring there bussiness online and make it convenient for customers to order things from home.
